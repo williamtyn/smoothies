@@ -1,8 +1,46 @@
 /* Imported Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans&display=swap');
 
-body {
-    background-color: #fff;
-    font-family: Montserrat, "Open Sans";
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 
+h1, h2 {
+    font-family: Montserrat, "Open Sans";
+}
+
+/* header and navigation */
+
+#header-logo {
+    font-size: 230%;
+    text-decoration: none;
+    float: left;
+    margin: 20px;
+    color: black;
+}
+
+#menu  {
+    font-size: 110%;
+    margin: 20px;
+    float: right;
+}
+
+#menu a {
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+}
+
+#menu li {
+    display: inline;
+}
+
+#menu, #header-logo {
+    line-height: 60px;
+}
+
+#menu li:hover {
+    font-size: 125%;
 }
