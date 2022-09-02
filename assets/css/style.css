@@ -11,6 +11,13 @@ h1, h2 {
     font-family: Montserrat, "Open Sans";
 }
 
+body {
+    font-family: "Open Sans";
+    font-weight: 300;
+    color: black;
+    height: 100%;
+}
+
 /* header and navigation */
 
 #header-logo {
@@ -18,7 +25,7 @@ h1, h2 {
     text-decoration: none;
     float: left;
     margin: 20px;
-    color: black;
+    color: #fff;
 }
 
 #menu  {
@@ -29,7 +36,7 @@ h1, h2 {
 
 #menu a {
     text-decoration: none;
-    color: black;
+    color: #fff;
     margin-right: 20px;
 }
 
@@ -42,5 +49,41 @@ h1, h2 {
 }
 
 #menu li:hover {
-    font-size: 125%;
+    font-size: 120%;
+}
+
+.active {
+    border-bottom: 2px solid;
+}
+
+/* hero image */
+
+#hero {
+}
+
+#hero-image {
+    background: url("../images/hero-image.jpg");
+    height: 90vh;
+    width: 100vw;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hero-text {
+    color: #fff;
+    text-align: center;
+    font-size: 180%;
+
+    width: 600px;
+    height: 200px;
+
+    bottom: 100px;
+    left: 80px;
+
+    padding: 25px;
+
+    background-color: rgba(96, 84, 90, 0.5);
+
+    position: absolute;
 }
