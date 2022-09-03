@@ -7,7 +7,7 @@
     border: 0;
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-family: Montserrat, "Open Sans";
 }
 
@@ -56,7 +56,7 @@ body {
     border-bottom: 2px solid;
 }
 
-/* hero image */
+/* hero image and overlay text */
 
 #hero {
 }
@@ -86,4 +86,36 @@ body {
     background-color: rgba(96, 84, 90, 0.5);
 
     position: absolute;
+}
+
+/* section for advantages */
+
+#advantages {
+    width: 100%;
+    height: 50vh;
+    padding-top: 50px;
+
+    text-align: center;
+    
+    background-color: red;
+
+}
+
+.advantages {
+    width: 90%;
+    padding-top: 50px;
+    margin: 25px auto;
+    
+    display: flex;
+    flex-direction: row;
+
+    background-color: lightblue;
+}
+
+hr { 
+    border-bottom: 5px solid black;
+    width: 10%;
+    padding-top: 15px;
+    margin: 0 auto;
+    align: center;
 }
