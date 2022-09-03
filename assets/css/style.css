@@ -96,9 +96,6 @@ body {
     padding-top: 50px;
 
     text-align: center;
-    
-    background-color: red;
-
 }
 
 .advantages {
@@ -113,9 +110,21 @@ body {
 }
 
 hr { 
-    border-bottom: 5px solid black;
+    border-top: 5px solid black;
     width: 10%;
     padding-top: 15px;
     margin: 0 auto;
     align: center;
+}
+
+#left-adv-heading {
+    margin-bottom:10px;
+}
+
+#center-adv-heading {
+    margin-bottom:10px;
+}
+
+#right-adv-heading {
+    margin-bottom:10px;
 }
