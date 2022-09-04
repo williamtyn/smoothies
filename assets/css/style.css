@@ -203,3 +203,26 @@ button:hover {
     background-size: cover;
 
 }
+
+/* Social network section */
+
+.socials {
+    width: 100vw;
+    height: 20vh;
+    font-size: 200%;
+    text-align: center;
+    background-color: #fff;
+}
+
+.socials a {
+    color: darkslategray;
+    margin: 35px;
+}
+
+.socials > li {
+    display: inline;
+}
+
+.socials i {
+    padding-top: 60px;
+}
