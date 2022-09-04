@@ -126,3 +126,47 @@ hr {
 #right-adv-heading {
     margin-bottom:10px;
 }
+
+/* Popular smoothies with pictures and text */
+
+#popular-smoothies {
+    width: 100vw;
+    height: 50vh;
+    
+    text-align: center;
+    background: lightblue;
+}
+
+#banana-image {
+    width: 25%;
+    height: 50vh;
+
+    background: url("../images/banana-smoothie.jpg") no-repeat center center;
+    background-size: cover;
+
+}
+
+.popular-layer {
+    background-color:rgba(96, 84, 90, 0.3);
+    width: 100%;
+    height: inherit;
+    color: #fff;
+}
+
+.popular-layer h2 {
+    position: center;
+    padding-top: 45px;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+
+    font-family: Montserrat;
+    text-transform: uppercase;
+    border: 1px solid #fff;
+
+    color: #fff;
+    background-color: transparent;
+}
