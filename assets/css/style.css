@@ -226,3 +226,59 @@ button:hover {
 .socials i {
     padding-top: 60px;
 }
+
+/* Recipe page */
+
+/* Background image */
+
+#recipes-images {
+    width: 100vw;
+    height: 90vh;
+
+    background: url("../images/recipe-image.jpg") no-repeat center center;
+    background-color: slategray;
+    background-size: cover;
+    background-position: top;
+}
+
+#recipes-overlay {
+    color: #fff;
+    text-align: center;
+    font-size: 180%;
+
+    width: 600px;
+    height: 100px;
+
+    bottom: 100px;
+    left: 80px;
+
+    padding: 25px;
+
+    background-color: rgba(96, 84, 90, 0.5);
+
+    position: absolute;
+}
+
+/* recipes section */
+
+.recipes-container {
+    width: 100vw;
+    height: 600px;
+    padding: 3%;
+    
+    background-color: lightblue;
+    color: darkslategray;
+
+    font-size: 120%;
+}
+
+#banana-recipe-image {
+    width:500px;
+    height: 500px;
+
+    background: url("../images/banana-smoothie.jpg") no-repeat center center;
+    background-size: cover;
+    float: left;
+}
+
+
