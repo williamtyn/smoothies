@@ -14,7 +14,7 @@ h1, h2, h3 {
 body {
     font-family: "Open Sans";
     font-weight: 300;
-    color: black;
+    color: darkslategray;
     height: 100%;
 }
 
@@ -108,7 +108,7 @@ body {
 }
 
 hr { 
-    border-top: 5px solid black;
+    border-top: 5px solid darkslategray;
     width: 10%;
     padding-top: 15px;
     margin: 0 auto;
@@ -134,16 +134,9 @@ hr {
     height: 50vh;
     
     text-align: center;
-    background: lightblue;
-}
+    background: darkslategrey;
 
-#banana-image {
-    width: 25%;
-    height: 50vh;
-
-    background: url("../images/banana-smoothie.jpg") no-repeat center center;
-    background-size: cover;
-
+    display: flex;
 }
 
 .popular-layer {
@@ -169,4 +162,44 @@ button {
 
     color: #fff;
     background-color: transparent;
+}
+
+button:hover {
+    transform: scale(1.2);
+}
+
+#banana-image {
+    width: 25%;
+    height: 50vh;
+
+    background: url("../images/banana-smoothie.jpg") no-repeat center center;
+    background-size: cover;
+
+}
+
+#strawberry-image {
+    width: 25%;
+    height: 50vh;
+
+    background: url("../images/strawberry.smoothie.jpg") no-repeat center center;
+    background-size: cover;
+
+}
+
+#coconut-image {
+    width: 25%;
+    height: 50vh;
+
+    background: url("../images/coconut-smoothie.jpg") no-repeat center center;
+    background-size: cover;
+
+}
+
+#blueberry-image {
+    width: 25%;
+    height: 50vh;
+
+    background: url("../images/blueberry-smoothie.jpg") no-repeat center center;
+    background-size: cover;
+
 }
