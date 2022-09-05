@@ -387,3 +387,35 @@ button:hover {
     color: darkslategray;
     background-color: transparent;
 }
+
+/* Share smoothie page */
+
+/* Background share image */
+
+#share-image {
+    width: 100vw;
+    height: 90vh;
+
+    background: url("../images/share-image.jpg") no-repeat center center;
+    background-color: slategray;
+    background-size: cover;
+    background-position: top;
+}
+
+#share-overlay {
+    color: #fff;
+    text-align: center;
+    font-size: 180%;
+
+    width: 600px;
+    height: 100px;
+
+    bottom: 100px;
+    left: 80px;
+
+    padding: 25px;
+
+    background-color: rgba(96, 84, 90, 0.5);
+
+    position: absolute;
+}
