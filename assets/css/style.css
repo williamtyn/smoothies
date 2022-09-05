@@ -58,9 +58,6 @@ body {
 
 /* hero image and overlay text */
 
-#hero {
-}
-
 #hero-image {
     background: url("../images/hero-image.jpg");
     height: 90vh;
@@ -75,17 +72,13 @@ body {
     text-align: center;
     font-size: 180%;
 
-    width: 600px;
-    height: 200px;
+    width: 50%;
+    height: 25%;
 
     bottom: 100px;
-    left: 80px;
-
-    padding: 25px;
+    position: absolute;
 
     background-color: rgba(96, 84, 90, 0.5);
-
-    position: absolute;
 }
 
 /* section for advantages */
@@ -291,7 +284,7 @@ button:hover {
     
     font-family: Montserrat;
     text-transform: uppercase;
-    text-decoration: none;
+    text-decoration:none;
     border: 1px solid darkslategray;
     
     color: darkslategray;
@@ -450,4 +443,55 @@ button:hover {
 
 .send-button:hover {
     transform: scale(1.2);
+}
+
+/* Media queries */
+
+@media screen and (max-width: 900px) {
+
+    #hero-image {
+        height: 600px;
+        margin: 0 auto;
+    }
+
+    #hero-text {
+        display: none;
+    }
+
+    #advantages {
+        height: 600px;
+        margin: 0 auto;
+    }
+
+    .advantages {
+        flex-direction: column;
+        padding-top: 0px;
+    }
+
+    #popular-smoothies {
+        width: 100%;
+        height: 1650px;
+        flex-direction: column;
+    }
+
+    #banana-image {
+        width: 100%;
+    }
+
+    #strawberry-image {
+        width: 100%;
+    }
+
+    #coconut-image {
+        width: 100%;
+    }
+
+    #blueberry-image {
+        width: 100%;
+    }
+
+    .socials {
+        font-size: 140%;
+        padding-top: 40px;
+    }
 }
