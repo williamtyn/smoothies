@@ -204,7 +204,7 @@ button:hover {
 
 }
 
-/* Social network section */
+/* footer socials */
 
 .socials {
     width: 100vw;
@@ -263,22 +263,39 @@ button:hover {
 
 .recipes-container {
     width: 100vw;
-    height: 600px;
-    padding: 3%;
-    
-    background-color: lightblue;
     color: darkslategray;
-
     font-size: 120%;
 }
 
 #banana-recipe-image {
-    width:500px;
-    height: 500px;
+    width: 700px;
+    height: 700px;
 
     background: url("../images/banana-smoothie.jpg") no-repeat center center;
     background-size: cover;
     float: left;
 }
 
+#banana-recipe-text {
+    width: 600px;
+    height: 600px;
+    float: right;
+    padding-right: 60px;
+}
 
+#banana-recipe-text h4 {
+    font-weight: bold;
+}
+
+#banana-recipe-text button {
+    width: 130px;
+    height: 40px;
+    margin-top: 10px;
+    
+    font-family: Montserrat;
+    text-transform: uppercase;
+    border: 1px solid darkslategray;
+    
+    color: darkslategray;
+    background-color: transparent;
+}
