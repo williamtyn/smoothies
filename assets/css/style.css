@@ -263,13 +263,14 @@ button:hover {
 
 .recipes-container {
     width: 100vw;
+    height: 1200px;
     color: darkslategray;
     font-size: 120%;
 }
 
 #banana-recipe-image {
-    width: 700px;
-    height: 700px;
+    width: 50%;
+    height: 600px;
 
     background: url("../images/banana-smoothie.jpg") no-repeat center center;
     background-size: cover;
@@ -277,14 +278,10 @@ button:hover {
 }
 
 #banana-recipe-text {
-    width: 600px;
+    width: 40%;
     height: 600px;
     float: right;
-    padding-right: 60px;
-}
-
-#banana-recipe-text h4 {
-    font-weight: bold;
+    padding-right: 50px;
 }
 
 #banana-recipe-text button {
@@ -294,6 +291,97 @@ button:hover {
     
     font-family: Montserrat;
     text-transform: uppercase;
+    text-decoration: none;
+    border: 1px solid darkslategray;
+    
+    color: darkslategray;
+    background-color: transparent;
+}
+
+#strawberry-recipe-image {
+    width: 50%;
+    height: 600px;
+
+    background: url("../images/strawberry.smoothie.jpg") no-repeat center center;
+    background-size: cover;
+    float: right;
+}
+
+#strawberry-recipe-text {
+    width: 40%;
+    height: 600px;
+    float: left;
+    padding-left: 70px;
+}
+
+#strawberry-recipe-text button {
+    width: 130px;
+    height: 40px;
+    margin-top: 10px;
+    
+    font-family: Montserrat;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px solid darkslategray;
+    
+    color: darkslategray;
+    background-color: transparent;
+}
+
+#coconut-recipe-image {
+    width: 50%;
+    height: 600px;
+
+    background: url("../images/coconut-smoothie.jpg") no-repeat center center;
+    background-size: cover;
+    float: left;
+}
+
+#coconut-recipe-text {
+    width: 40%;
+    height: 600px;
+    float: right;
+    padding-right: 50px;
+}
+
+#coconut-recipe-text button {
+    width: 130px;
+    height: 40px;
+    margin-top: 10px;
+    
+    font-family: Montserrat;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px solid darkslategray;
+    
+    color: darkslategray;
+    background-color: transparent;
+}
+
+#blueberry-recipe-image {
+    width: 50%;
+    height: 600px;
+
+    background: url("../images/blueberry-smoothie.jpg") no-repeat center center;
+    background-size: cover;
+    float: right;
+}
+
+#blueberry-recipe-text {
+    width: 40%;
+    height: 600px;
+    float: left;
+    padding-left: 70px;
+}
+
+#blueberry-recipe-text button {
+    width: 130px;
+    height: 40px;
+    margin-top: 10px;
+    
+    font-family: Montserrat;
+    text-transform: uppercase;
+    text-decoration: none;
     border: 1px solid darkslategray;
     
     color: darkslategray;
