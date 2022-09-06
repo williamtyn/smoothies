@@ -569,4 +569,8 @@ button:hover {
     #share-overlay {
         display: none;
     }
+
+    .share {
+        width: 90%;
+    }
 }
