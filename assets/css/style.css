@@ -104,7 +104,6 @@ hr {
     width: 10%;
     padding-top: 15px;
     margin: 0 auto;
-    align: center;
 }
 
 #left-adv-heading {
@@ -139,7 +138,6 @@ hr {
 }
 
 .popular-layer h2 {
-    position: center;
     padding-top: 45px;
 }
 
@@ -156,8 +154,36 @@ button {
     background-color: transparent;
 }
 
-button:hover {
-    transform: scale(1.2);
+.button-link {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    
+    padding: 5px;
+    margin-top: 5px;
+
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.button-link-grey {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    
+    padding: 5px;
+    margin-top: 5px;
+
+    border: 2px solid darkslategray;
+    color: darkslategray;
+}
+
+.button-link-grey:hover {
+    font-size: 120%;
+}
+
+.button-link:hover {
+    font-size: 120%;
 }
 
 #banana-image {
@@ -479,7 +505,7 @@ button:hover {
 
 /* Media queries on screens 900px width and below */
 
-/* index.html  */
+/* index.html on screens 900px and below */
 
 @media screen and (max-width: 900px) {
 
@@ -529,7 +555,7 @@ button:hover {
         padding-top: 40px;
     }
 
-/* recipe.html */
+/* recipe.html on screens 900px and below */
 
     #recipes-images {
         width: 100%;
