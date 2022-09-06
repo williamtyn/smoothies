@@ -477,7 +477,7 @@ button:hover {
     transform: scale(1.2);
 }
 
-/* Media queries */
+/* Media queries on screens 900px width and below */
 
 /* index.html  */
 
@@ -540,56 +540,56 @@ button:hover {
         display: none;
     }
 
+    .banana-flex {
+        flex-direction: column;
+    }
+
     #banana-recipe-image {
         width: 100%;
-        height: 400px;
     }
 
     #banana-recipe-text {
-        width: 100%;
-        height: 1000px;
-        text-align: center;
-        float: none;
-        padding: 0;
+        width: 80%;
+        margin: 10px;
+    }
+
+    .strawberry-flex {
+        flex-direction: column;
     }
 
     #strawberry-recipe-image {
         width: 100%;
-        height: 400px;
     }
 
     #strawberry-recipe-text {
-        width: 100%;
-        height: 1050px;
-        text-align: center;
-        float: none;
-        padding: 0;
+        width: 80%;
+        margin: 10px;
+    }
+
+    .coconut-flex {
+        flex-direction: column;
     }
 
     #coconut-recipe-image {
         width: 100%;
-        height: 400px;
     }
 
     #coconut-recipe-text {
-        width: 100%;
-        height: 900px;
-        text-align: center;
-        float: none;
-        padding: 0;
+        width: 80%;
+        margin: 10px;
+    }
+
+    .blueberry-flex {
+        flex-direction: column;
     }
 
     #blueberry-recipe-image {
         width: 100%;
-        height: 400px;
     }
 
     #blueberry-recipe-text {
-        width: 100%;
-        height: 1000px;
-        text-align: center;
-        float: none;
-        padding: 0;
+        width: 80%;
+        margin: 10px;
     }
 
     /* Share recipes on screens 900px and below */
