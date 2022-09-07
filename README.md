@@ -41,18 +41,24 @@ The footer remains in the bottom on all three pages and navigate the user to our
 
 ![Printscreen of footer with social icons](assets/images/readme-images/footer.png)
 
-### Recipes
+### Recipes Page
 The recipes page is the main purpose of the site where the visitor can see picture and recipe to many different smoothies. The first thing they see is a nice background to get their attention, follower by the different recipes and a link to the contributor of the recipe and their website.
 
 ![Printscreen of banana smoothie image and recipe](assets/images/readme-images/printscreen-banana-recipe.png)
 ![Printscreen of strawberry smoothie image and recipe](assets/images/readme-images/printscreen-strawberry-recipe.png)
 
-### Share Smoothie
+### Share Smoothie Page
 On the share smoothie page you can find a form where you can send your information and the link to your site containing the recipe.
 
 ![Printscreen of banana smoothie image and recipe](assets/images/readme-images/send-recipe.png)
 
+### Possibly Future Features
+* Build Smoothie - A way for the visitor to list their ingredients they have at home and the site generate a smoothie recipe for them.
+* More Recipes - More content in the recipe page along with visit contributing to the site.
 
+### Testing
+[HTML5 Validation](https://validator.w3.org/#validate_by_input) - Validated the HTML5 code 
+[CSS Validation](https://jigsaw.w3.org/css-validator/) - Validated the code
 
 ## Tecnologies Used
 * [HTML5](https://www.w3.org/TR/2014/REC-html5-20141028/introduction.html)- Used for the content and structure of site
@@ -63,5 +69,6 @@ On the share smoothie page you can find a form where you can send your informati
 * [Gitpod](https://www.gitpod.io/)- Creating and hosting of site
 * [Github](https://github.com/)- Used to deploy the site
 * [Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php) - Used to display homepage on different devices
+* [Convertio](https://convertio.co/) - For converting jpg to webp for smaller file size
 
 ## Credits

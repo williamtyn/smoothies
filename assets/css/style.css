@@ -58,7 +58,7 @@ body {
 /* hero image and overlay text */
 
 #hero-image {
-    background: url("../images/hero-image.jpg");
+    background: url("../images/hero-image_50.webp");
     height: 90vh;
     width: 100vw;
     background-position: bottom;
@@ -191,7 +191,7 @@ button {
     width: 25%;
     height: 50vh;
 
-    background: url("../images/banana-smoothie.jpg") no-repeat center center;
+    background: url("../images/banana-smoothie_50.webp") no-repeat center center;
     background-size: cover;
 
 }
@@ -200,7 +200,7 @@ button {
     width: 25%;
     height: 50vh;
 
-    background: url("../images/strawberry.smoothie.jpg") no-repeat center center;
+    background: url("../images/strawberry-smoothie_50.webp") no-repeat center center;
     background-size: cover;
 
 }
@@ -209,7 +209,7 @@ button {
     width: 25%;
     height: 50vh;
 
-    background: url("../images/coconut-smoothie.jpg") no-repeat center center;
+    background: url("../images/coconut-smoothie_50.webp") no-repeat center center;
     background-size: cover;
 
 }
@@ -218,7 +218,7 @@ button {
     width: 25%;
     height: 50vh;
 
-    background: url("../images/blueberry-smoothie.jpg") no-repeat center center;
+    background: url("../images/blueberry-smoothie_50.webp") no-repeat center center;
     background-size: cover;
 
 }
@@ -254,7 +254,7 @@ button {
     width: 100vw;
     height: 90vh;
 
-    background: url("../images/recipe-image.jpg") no-repeat center center;
+    background: url("../images/recipe-image_50.webp") no-repeat center center;
     background-color: slategray;
     background-size: cover;
     background-position: top;
@@ -292,7 +292,7 @@ button {
     width: 50%;
     height: 600px;
 
-    background: url("../images/banana-smoothie.jpg") no-repeat center center;
+    background: url("../images/banana-smoothie_50.webp") no-repeat center center;
     background-size: cover;
 }
 
@@ -332,7 +332,7 @@ button {
     width: 50%;
     height: 600px;
 
-    background: url("../images/strawberry.smoothie.jpg") no-repeat center center;
+    background: url("../images/strawberry-smoothie_50.webp") no-repeat center center;
     background-size: cover;
 }
 
@@ -372,7 +372,7 @@ button {
     width: 50%;
     height: 600px;
 
-    background: url("../images/coconut-smoothie.jpg") no-repeat center center;
+    background: url("../images/coconut-smoothie_50.webp") no-repeat center center;
     background-size: cover;
 }
 
@@ -412,7 +412,7 @@ button {
     width: 50%;
     height: 600px;
 
-    background: url("../images/blueberry-smoothie.jpg") no-repeat center center;
+    background: url("../images/blueberry-smoothie_50.webp") no-repeat center center;
     background-size: cover;
 }
 
@@ -448,7 +448,7 @@ button {
     width: 100vw;
     height: 90vh;
 
-    background: url("../images/share-image.jpg") no-repeat center center;
+    background: url("../images/share-image_50.webp") no-repeat center center;
     background-color: slategray;
     background-size: cover;
     background-position: top;
