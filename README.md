@@ -11,18 +11,14 @@ Smooth!e is a website for everybody in the world who loves smoothies. On this we
 [View repository](https://github.com/williamtyn/smoothies) 
 
 ## Catalouge
-<nav>
-  <a id="target-group">Target Group</a>
-  <a id="site-structure">Site Structure</a>
-</nav>
-
-<section id="target-group">## Target Group
+<ul>
+<li><a href="#target-group">Target Group</a></li>
+</ul>
+<h2 id="target-group"> Target Group</h2>
 This website targets the millions of people who want to find new smoothie recipes to test for their first time. The site is also for the people that have found their perfect recipe and want to share that with the world, along with getting traffic to their site.
-</section>
 
-<section id="site-structure">## Site Structure
+## Site Structure
 Smoothie is a three page site that includes header with logo/navigation and footer with social icons on all pages for easy navigation. Because the user visit the site to mainly find new smoothie recipes i´ve focused a lot on many pictures to highlight the recipes so the user crave to test it.
-</section>
 
 ### Homepage
 
