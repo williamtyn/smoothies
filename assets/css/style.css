@@ -124,10 +124,7 @@ hr {
 #popular-smoothies {
     width: 100vw;
     height: 50vh;
-    
     text-align: center;
-    background: darkslategrey;
-
     display: flex;
 }
 

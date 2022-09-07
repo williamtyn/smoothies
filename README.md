@@ -5,7 +5,7 @@ Smooth!e is a website for everybody in the world who loves smoothies. On this we
 ![Image mockup of the website in a computer, tablet and phone](assets/images/readme-images/Smoothie%20-%20Mockup.png)
 
 ## Live Site
-[Go to site](https://#) 
+[Go to site](https://williamtyn.github.io/smoothies/) 
 
 ## Repository
 [View repository](https://github.com/williamtyn/smoothies) 
@@ -88,6 +88,31 @@ The responsive design was tested with [Chrome Dev Tools](https://developer.chrom
 * [Github](https://github.com/)- Used to deploy the site
 * [Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php) - Used to display homepage on different devices
 * [Convertio](https://convertio.co/) - For converting jpg to webp for smaller file size
+
+## Deployment
+The website was deployed to GitHub Pages.
+
+### How the site was deployed
+
+#### 1. Settings in GitHub repository
+Go to settings in the GitHub repository of the site.
+
+![GitHub settings](assets/images/readme-images/github-settings.png)
+
+#### 2. Source and branch
+Set the source to "Deploy fron a branch".
+Change the Branch to "main" and .
+Click "save".
+
+![Source and Branch](assets/images/readme-images/source-branch.png)
+
+#### 3. Confirmation
+Wait for confirmation that the source have been saved.
+
+![Confirmation](assets/images/readme-images/confirmation.png)
+
+#### 4. Your done
+It can take a few minutes before you can see your link tol the hosted website.
 
 ## Credits
 
