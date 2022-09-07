@@ -72,9 +72,10 @@ body {
     font-size: 180%;
 
     width: 50%;
-    height: 25%;
+    height: 20%;
 
     bottom: 100px;
+    margin-bottom: 50px;
     position: absolute;
 
     background-color: rgba(96, 84, 90, 0.5);
