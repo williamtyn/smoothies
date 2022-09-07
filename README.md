@@ -59,6 +59,13 @@ On the share smoothie page you can find a form where you can send your informati
 ### Testing
 [HTML5 Validation](https://validator.w3.org/#validate_by_input) - Validated the HTML5 code 
 [CSS Validation](https://jigsaw.w3.org/css-validator/) - Validated the code
+*Comment - CSS was not passed at first due to my anchors that i used in buttons, therefore i removed the buttons and instead styled the anchor links*
+[Lighthouse](https://web.dev/measure/) - See scoring below
+*Comment - after my first testing in lighthouse the score for website was very low due to high image sizes. Therefore i converted the files from jpg to webp and also made the file smaller without it effecting quality of the image, see tecnologies for which program was used*
+
+[First scoring](assets/images/readme-images/lighthouse-1.png)
+
+[Scoring after debugging](assets/images/readme-images/lighthouse-2.png)
 
 ## Tecnologies Used
 * [HTML5](https://www.w3.org/TR/2014/REC-html5-20141028/introduction.html)- Used for the content and structure of site
