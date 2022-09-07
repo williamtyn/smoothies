@@ -42,7 +42,7 @@ The footer remains in the bottom on all three pages and navigate the user to our
 ![Printscreen of footer with social icons](assets/images/readme-images/footer.png)
 
 ### Recipes Page
-The recipes page is the main purpose of the site where the visitor can see picture and recipe to many different smoothies. The first thing they see is a nice background to get their attention, follower by the different recipes and a link to the contributor of the recipe and their website.
+The recipes page is the main purpose of the site where the visitor can see picture and recipe to many different smoothies. The first thing they see is a nice background to get their attention, followed by the different recipes and a link to the contributor of the recipe and their website.
 
 ![Printscreen of banana smoothie image and recipe](assets/images/readme-images/printscreen-banana-recipe.png)
 ![Printscreen of strawberry smoothie image and recipe](assets/images/readme-images/printscreen-strawberry-recipe.png)
@@ -54,18 +54,18 @@ On the share smoothie page you can find a form where you can send your informati
 
 ### Possibly Future Features
 * Build Smoothie - A way for the visitor to list their ingredients they have at home and the site generate a smoothie recipe for them.
-* More Recipes - More content in the recipe page along with visit contributing to the site.
+* More Recipes - More content in the recipe page along with visitors contributing to the site.
 
 ## Testing
-[HTML5 Validation](https://validator.w3.org/#validate_by_input) - Validated the HTML5 code 
-[CSS Validation](https://jigsaw.w3.org/css-validator/) - Validated the code
+* [HTML5 Validation](https://validator.w3.org/#validate_by_input) - Validated the HTML5 code 
+* [CSS Validation](https://jigsaw.w3.org/css-validator/) - Validated the code
 *Comment - CSS was not passed at first due to my anchors that i used in buttons, therefore i removed the buttons and instead styled the anchor links*
-[Lighthouse](https://web.dev/measure/) - See scoring below
+* [Lighthouse](https://web.dev/measure/) - See scoring below
 *Comment - after my first testing in lighthouse the score for website was very low due to high image sizes. Therefore i converted the files from jpg to webp and also made the file smaller without it effecting quality of the image, see tecnologies for which program was used*
 
-[First scoring](assets/images/readme-images/lighthouse-1.png)
+![First scoring](assets/images/readme-images/lighthouse-1.png)
 
-[Scoring after debugging](assets/images/readme-images/lighthouse-2.png)
+![Second scoring](assets/images/readme-images/lighthouse-2.png)
 
 ### Bugs
 As mentioned above i found that anchor didn´t go well witch button in html. I solved that by removing the button and instead styled the anchor links with css.
@@ -111,8 +111,10 @@ Wait for confirmation that the source have been saved.
 
 ![Confirmation](assets/images/readme-images/confirmation.png)
 
-#### 4. Your done
+#### 4. Your site is live
 It can take a few minutes before you can see your link tol the hosted website.
+
+![Live site](assets/images/readme-images/live-site.png)
 
 ## Credits
 
