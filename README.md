@@ -56,7 +56,7 @@ On the share smoothie page you can find a form where you can send your informati
 * Build Smoothie - A way for the visitor to list their ingredients they have at home and the site generate a smoothie recipe for them.
 * More Recipes - More content in the recipe page along with visit contributing to the site.
 
-### Testing
+## Testing
 [HTML5 Validation](https://validator.w3.org/#validate_by_input) - Validated the HTML5 code 
 [CSS Validation](https://jigsaw.w3.org/css-validator/) - Validated the code
 *Comment - CSS was not passed at first due to my anchors that i used in buttons, therefore i removed the buttons and instead styled the anchor links*
@@ -66,6 +66,17 @@ On the share smoothie page you can find a form where you can send your informati
 [First scoring](assets/images/readme-images/lighthouse-1.png)
 
 [Scoring after debugging](assets/images/readme-images/lighthouse-2.png)
+
+### Bugs
+As mentioned above i found that anchor didn´t go well witch button in html. I solved that by removing the button and instead styled the anchor links with css.
+
+### Unsolved bugs
+1. There is a bug on the overlay text-div on background image for smaller screens. I made the display to none for the user to not be affected by it and if i had more time i would have made the code for the text-div to be responsive.
+
+2. The form-submit-button now post the form to [formdump.codeinstitute.net](https://formdump.codeinstitute.net/) and with more time i had made a landing page within the site to thank the visitor for their contribution along with a button-link to redirect them back to the site.
+
+### Responsivness
+The responsive design was tested with [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/). And included Smartphones, Tablets and bigger screens. Media Queries was added in CSS for screens with 900px width and below.
 
 ## Tecnologies Used
 * [HTML5](https://www.w3.org/TR/2014/REC-html5-20141028/introduction.html)- Used for the content and structure of site
