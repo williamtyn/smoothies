@@ -10,14 +10,19 @@ Smooth!e is a website for everybody in the world who loves smoothies. On this we
 ## Repository
 [View repository](https://github.com/williamtyn/smoothies) 
 
-## Contents
-list of all contents
+## Catalouge
+<nav>
+  <a id="target-group">Target Group</a>
+  <a id="site-structure">Site Structure</a>
+</nav>
 
-## Target Group
+<section id="target-group">## Target Group
 This website targets the millions of people who want to find new smoothie recipes to test for their first time. The site is also for the people that have found their perfect recipe and want to share that with the world, along with getting traffic to their site.
+</section>
 
-## Site Structure
+<section id="site-structure">## Site Structure
 Smoothie is a three page site that includes header with logo/navigation and footer with social icons on all pages for easy navigation. Because the user visit the site to mainly find new smoothie recipes i´ve focused a lot on many pictures to highlight the recipes so the user crave to test it.
+</section>
 
 ### Homepage
 
@@ -69,6 +74,8 @@ On the share smoothie page you can find a form where you can send your informati
 
 ### Bugs
 As mentioned above i found that anchor didn´t go well witch button in html. I solved that by removing the button and instead styled the anchor links with css.
+
+Also when validating HTML code i found som elements that didn´t had closing tags, which i resolved.
 
 ### Unsolved bugs
 1. There is a bug on the overlay text-div on background image for smaller screens. I made the display to none for the user to not be affected by it and if i had more time i would have made the code for the text-div to be responsive.
@@ -127,13 +134,13 @@ I had some problem with the sites hero image and thanks to Student Support at Co
 ### Images
 All the images on the site have been downloaded from [Pexels](https://www.pexels.com/sv-se/) and a special thanks to the image owners.
 
-[Kindel Media](https://www.pexels.com/sv-se/foto/smoothie-konserveringsburk-forfriskning-kalla-drycker-8181548/)
-[Vitaly](https://www.pexels.com/sv-se/foto/kafe-banan-smoothie-halsosam-mat-11712526/)
-[Ehioma Osih](https://www.pexels.com/sv-se/foto/glas-efterratt-dekoration-jordgubbe-10766779/)
-[Alexander Mils](https://www.pexels.com/sv-se/foto/mat-kall-halsosam-tra-1853812/)
-[Ralitsa Racheva](https://www.pexels.com/sv-se/foto/dryck-glas-frukt-blabar-11135665/)
-[Milada Vigerova](https://www.pexels.com/sv-se/foto/dryck-frukt-jordgubbar-farsk-5984486/)
-[Roman Odintsov](https://www.pexels.com/sv-se/foto/halsosam-dryck-metall-bord-4958863/)
+* [Kindel Media](https://www.pexels.com/sv-se/foto/smoothie-konserveringsburk-forfriskning-kalla-drycker-8181548/)
+* [Vitaly](https://www.pexels.com/sv-se/foto/kafe-banan-smoothie-halsosam-mat-11712526/)
+* [Ehioma Osih](https://www.pexels.com/sv-se/foto/glas-efterratt-dekoration-jordgubbe-10766779/)
+* [Alexander Mils](https://www.pexels.com/sv-se/foto/mat-kall-halsosam-tra-1853812/)
+* [Ralitsa Racheva](https://www.pexels.com/sv-se/foto/dryck-glas-frukt-blabar-11135665/)
+* [Milada Vigerova](https://www.pexels.com/sv-se/foto/dryck-frukt-jordgubbar-farsk-5984486/)
+* [Roman Odintsov](https://www.pexels.com/sv-se/foto/halsosam-dryck-metall-bord-4958863/)
 
 ### Code
 The code for the logo, navbar and footer was inspired from the Love Running Project.
