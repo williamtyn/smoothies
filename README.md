@@ -90,3 +90,23 @@ The responsive design was tested with [Chrome Dev Tools](https://developer.chrom
 * [Convertio](https://convertio.co/) - For converting jpg to webp for smaller file size
 
 ## Credits
+
+### Issues with code
+Many of my issues with both HTML5 and CSS was partly resolved thanks to [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/).
+
+### Student Support
+I had some problem with the sites hero image and thanks to Student Support at Codeinstitute i was able to resolve the problem.
+
+### Images
+All the images on the site have been downloaded from [Pexels](https://www.pexels.com/sv-se/) and a special thanks to the image owners.
+
+[Kindel Media](https://www.pexels.com/sv-se/foto/smoothie-konserveringsburk-forfriskning-kalla-drycker-8181548/)
+[Vitaly](https://www.pexels.com/sv-se/foto/kafe-banan-smoothie-halsosam-mat-11712526/)
+[Ehioma Osih](https://www.pexels.com/sv-se/foto/glas-efterratt-dekoration-jordgubbe-10766779/)
+[Alexander Mils](https://www.pexels.com/sv-se/foto/mat-kall-halsosam-tra-1853812/)
+[Ralitsa Racheva](https://www.pexels.com/sv-se/foto/dryck-glas-frukt-blabar-11135665/)
+[Milada Vigerova](https://www.pexels.com/sv-se/foto/dryck-frukt-jordgubbar-farsk-5984486/)
+[Roman Odintsov](https://www.pexels.com/sv-se/foto/halsosam-dryck-metall-bord-4958863/)
+
+### Code
+The code for the logo, navbar and footer was inspired from the Love Running Project.
