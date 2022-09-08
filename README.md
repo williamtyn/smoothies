@@ -14,11 +14,26 @@ Smooth!e is a website for everybody in the world who loves smoothies. On this we
 <ul>
 <li><a href="#target-group">Target Group</a></li>
 <li><a href="#site-structure">Site Structure</a>
+<ul>
 <li><a href="#homepage">Homepage</a></li>
 <li><a href="#recipe-page">Recipes Page</a></li>
-<li><a href="#share-smoothie">Share Smoothie Page</a></li>
+<li><a href="#share-smoothie">Share Smoothie Page</a></li></ul>
+<li><a href="#future-features">Future Features</a></li>
+<li><a href="#testing">Testing</a></li>
+<li><a href="#bugs">Bugs</a></li>
+<ul><li><a href="#unsolved-bugs">Unsolved Bugs</a></li></ul>
+<li><a href="#responsivness">Responsivness</a></li>
+<li><a href="#technologies">Technologies</a></li>
+<li><a href="#deployment">Deployment</a></li>
+<li><a href="#credits">Credits</a></li>
+<ul>
+<li><a href="#code-issues">Credits</a></li>
+<li><a href="#student-support">Student Support</a></li>
+<li><a href="#images">Images</a></li>
+<li><a href="#code">Code</a></li></ul>
 </li>
 </ul>
+
 <h2 id="target-group">Target Group</h2>
 This website targets the millions of people who want to find new smoothie recipes to test for their first time. The site is also for the people that have found their perfect recipe and want to share that with the world, along with getting traffic to their site.
 
@@ -59,11 +74,11 @@ On the share smoothie page you can find a form where you can send your informati
 
 ![Printscreen of banana smoothie image and recipe](assets/images/readme-images/send-recipe.png)
 
-### Possibly Future Features
+<h2 id="future-features">Future Features</h2>
 * Build Smoothie - A way for the visitor to list their ingredients they have at home and the site generate a smoothie recipe for them.
 * More Recipes - More content in the recipe page along with visitors contributing to the site.
 
-## Testing
+<h2 id="testing">Testing</h2>
 * [HTML5 Validation](https://validator.w3.org/#validate_by_input) - Validated the HTML5 code 
 * [CSS Validation](https://jigsaw.w3.org/css-validator/) - Validated the code
 *Comment - CSS was not passed at first due to my anchors that i used in buttons, therefore i removed the buttons and instead styled the anchor links*
@@ -74,20 +89,20 @@ On the share smoothie page you can find a form where you can send your informati
 
 ![Second scoring](assets/images/readme-images/lighthouse-2.png)
 
-### Bugs
+<h2 id="bugs">Bugs</h2>
 As mentioned above i found that anchor didn´t go well witch button in html. I solved that by removing the button and instead styled the anchor links with css.
 
 Also when validating HTML code i found som elements that didn´t had closing tags, which i resolved.
 
-### Unsolved bugs
+<h3 id="unsolved-bugs">Unsolved Bugs</h3>
 1. There is a bug on the overlay text-div on background image for smaller screens. I made the display to none for the user to not be affected by it and if i had more time i would have made the code for the text-div to be responsive.
 
 2. The form-submit-button now post the form to [formdump.codeinstitute.net](https://formdump.codeinstitute.net/) and with more time i had made a landing page within the site to thank the visitor for their contribution along with a button-link to redirect them back to the site.
 
-### Responsivness
+<h2 id="responsivness">Responsivness</h2>
 The responsive design was tested with [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/). And included Smartphones, Tablets and bigger screens. Media Queries was added in CSS for screens with 900px width and below.
 
-## Tecnologies Used
+<h2 id="technologies">Tecnhologies Used</h2>
 * [HTML5](https://www.w3.org/TR/2014/REC-html5-20141028/introduction.html)- Used for the content and structure of site
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - Used for styling of site
 * [Google Fonts](https://fonts.google.com/) - Used for styling of fonts 
@@ -98,7 +113,7 @@ The responsive design was tested with [Chrome Dev Tools](https://developer.chrom
 * [Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php) - Used to display homepage on different devices
 * [Convertio](https://convertio.co/) - For converting jpg to webp for smaller file size
 
-## Deployment
+<h2 id="deployment">Deployment</h2>
 The website was deployed to GitHub Pages.
 
 ### How the site was deployed
@@ -125,15 +140,15 @@ It can take a few minutes before you can see your link tol the hosted website.
 
 ![Live site](assets/images/readme-images/live-site.png)
 
-## Credits
+<h2 id="credits">Credits</h2>
 
-### Issues with code
+<h3 id="code-issues">Issues with code</h3>
 Many of my issues with both HTML5 and CSS was partly resolved thanks to [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/).
 
-### Student Support
+<h3 id="student-support">Student Support</h3>
 I had some problem with the sites hero image and thanks to Student Support at Codeinstitute i was able to resolve the problem.
 
-### Images
+<h3 id="images">Images</h3>
 All the images on the site have been downloaded from [Pexels](https://www.pexels.com/sv-se/) and a special thanks to the image owners.
 
 * [Kindel Media](https://www.pexels.com/sv-se/foto/smoothie-konserveringsburk-forfriskning-kalla-drycker-8181548/)
@@ -144,5 +159,5 @@ All the images on the site have been downloaded from [Pexels](https://www.pexels
 * [Milada Vigerova](https://www.pexels.com/sv-se/foto/dryck-frukt-jordgubbar-farsk-5984486/)
 * [Roman Odintsov](https://www.pexels.com/sv-se/foto/halsosam-dryck-metall-bord-4958863/)
 
-### Code
+<h3 id="code">Code</h3>
 The code for the logo, navbar and footer was inspired from the Love Running Project.
