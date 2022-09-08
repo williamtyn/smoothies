@@ -100,12 +100,13 @@ As mentioned above i found that anchor didn´t go well witch button in html. I s
 Also when validating HTML code i found som elements that didn´t had closing tags, which i resolved.
 
 <h3 id="unsolved-bugs">Unsolved Bugs</h3>
+
 1. There is a bug on the overlay text-div on background image for smaller screens. I made the display to none for the user to not be affected by it and if i had more time i would have made the code for the text-div to be responsive.
 
 2. The form-submit-button now post the form to [formdump.codeinstitute.net](https://formdump.codeinstitute.net/) and with more time i had made a landing page within the site to thank the visitor for their contribution along with a button-link to redirect them back to the site.
 
 <h2 id="responsivness">Responsivness</h2>
-The responsive design was tested with <a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noopener"></a>. The testing of responsivness included Smartphones, Tablets and bigger screens. Media Queries was added in CSS for screens with 900px width and below.
+The responsive design was tested with <a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noopener">Google Chrome DevTools</a>. The testing of responsivness included Smartphones, Tablets and bigger screens. Media Queries was added in CSS for screens with 900px width and below.
 
 <h2 id="technologies">Tecnhologies Used</h2>
 
@@ -131,8 +132,7 @@ Go to <b>settings</b> in the GitHub repository of the site.
 
 #### 2. Source and branch
 Set the <b>source</b> to "Deploy from a branch".
-Change the <b>branch</b> to "main" and .
-Click "save".
+Change the <b>branch</b> to "main" <b>click</b> "save".
 
 ![Source and Branch](assets/images/readme-images/source-branch.png)
 
