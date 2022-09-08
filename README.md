@@ -27,10 +27,11 @@ Smooth!e is a website for everybody in the world who loves smoothies. On this we
 <li><a href="#deployment">Deployment</a></li>
 <li><a href="#credits">Credits</a></li>
 <ul>
-<li><a href="#code-issues">Credits</a></li>
+<li><a href="#code-issues">Issues with code</a></li>
 <li><a href="#student-support">Student Support</a></li>
 <li><a href="#images">Images</a></li>
 <li><a href="#code">Code</a></li></ul>
+<li><a href="#acknowledgements">Acknowledgements</a></li></ul>
 </li>
 </ul>
 
@@ -146,7 +147,7 @@ It can take a few minutes before you can see your link tol the hosted website.
 Many of my issues with both HTML5 and CSS was partly resolved thanks to [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/).
 
 <h3 id="student-support">Student Support</h3>
-I had some problem with the sites hero image and thanks to Student Support at Codeinstitute i was able to resolve the problem.
+I had some problem with the sites hero image and thanks to Student Support at [Codeinstitute](https://codeinstitute.net/) i was able to resolve the problem.
 
 <h3 id="images">Images</h3>
 All the images on the site have been downloaded from [Pexels](https://www.pexels.com/sv-se/) and a special thanks to the image owners.
@@ -161,3 +162,8 @@ All the images on the site have been downloaded from [Pexels](https://www.pexels
 
 <h3 id="code">Code</h3>
 The code for the logo, navbar and footer was inspired from the Love Running Project.
+
+<h2 id="acknowledgements">Acknowledgements</h2>
+This website was completed as a Portfolio Project 1 for the Fullstack Diploma at [Codeinstitute](https://codeinstitute.net/). The project was built due to my daily drinking of smoothies and my own searching for the best smoothie recipes, therefore is the concept real but the website is buit for my portfolio and not for public consumption. 
+
+William Tynér, September 2022.
