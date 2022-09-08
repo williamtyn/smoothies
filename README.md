@@ -76,15 +76,19 @@ On the share smoothie page you can find a form where you can send your informati
 ![Printscreen of banana smoothie image and recipe](assets/images/readme-images/send-recipe.png)
 
 <h2 id="future-features">Future Features</h2>
-* Build Smoothie - A way for the visitor to list their ingredients they have at home and the site generate a smoothie recipe for them.
-* More Recipes - More content in the recipe page along with visitors contributing to the site.
+<ul><li>Build Smoothie - A way for the visitor to list their ingredients they have at home and the site generate a smoothie recipe for them.</li>
+<li>More Recipes - More content in the recipe page along with visitors contributing to the site.</li>
+</ul>
 
 <h2 id="testing">Testing</h2>
-* [HTML5 Validation](https://validator.w3.org/#validate_by_input) - Validated the HTML5 code 
-* [CSS Validation](https://jigsaw.w3.org/css-validator/) - Validated the code
-*Comment - CSS was not passed at first due to my anchors that i used in buttons, therefore i removed the buttons and instead styled the anchor links*
-* [Lighthouse](https://web.dev/measure/) - See scoring below
-*Comment - after my first testing in lighthouse the score for website was very low due to high image sizes. Therefore i converted the files from jpg to webp and also made the file smaller without it effecting quality of the image, see tecnologies for which program was used*
+<ul> 
+<li><a href="https://validator.w3.org/#validate_by_input" target="_blank" rel="noopener">HTML5 Validation</a> - Validated the HTML5 code</li> 
+<li><a href="https://jigsaw.w3.org/css-validator/" target="_blank" rel="noopener">CSS Validation</a> - Validated the code</li>
+<em>Comment - CSS was not passed at first due to my anchors that i used in buttons, therefore i removed the buttons and instead styled the anchor links</em>
+
+<li><a href="https://web.dev/measure/" target="_blank" rel="noopener">Lighthouse</a> - See scoring below</li>
+<em>Comment - after my first testing in lighthouse the score for website was very low due to high image sizes. Therefore i converted the files from jpg to webp and also made the file smaller without it effecting quality of the image, see tecnologies for which program was used.</em>
+</ul>
 
 ![First scoring](assets/images/readme-images/lighthouse-1.png)
 
@@ -101,9 +105,10 @@ Also when validating HTML code i found som elements that didn´t had closing tag
 2. The form-submit-button now post the form to [formdump.codeinstitute.net](https://formdump.codeinstitute.net/) and with more time i had made a landing page within the site to thank the visitor for their contribution along with a button-link to redirect them back to the site.
 
 <h2 id="responsivness">Responsivness</h2>
-The responsive design was tested with [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/). And included Smartphones, Tablets and bigger screens. Media Queries was added in CSS for screens with 900px width and below.
+The responsive design was tested with <a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noopener"></a>. The testing of responsivness included Smartphones, Tablets and bigger screens. Media Queries was added in CSS for screens with 900px width and below.
 
 <h2 id="technologies">Tecnhologies Used</h2>
+
 * [HTML5](https://www.w3.org/TR/2014/REC-html5-20141028/introduction.html)- Used for the content and structure of site
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - Used for styling of site
 * [Google Fonts](https://fonts.google.com/) - Used for styling of fonts 
@@ -120,36 +125,39 @@ The website was deployed to GitHub Pages.
 ### How the site was deployed
 
 #### 1. Settings in GitHub repository
-Go to settings in the GitHub repository of the site.
+Go to <b>settings</b> in the GitHub repository of the site.
 
 ![GitHub settings](assets/images/readme-images/github-settings.png)
 
 #### 2. Source and branch
-Set the source to "Deploy fron a branch".
-Change the Branch to "main" and .
+Set the <b>source</b> to "Deploy from a branch".
+Change the <b>branch</b> to "main" and .
 Click "save".
 
 ![Source and Branch](assets/images/readme-images/source-branch.png)
 
 #### 3. Confirmation
-Wait for confirmation that the source have been saved.
+Wait for confirmation that the source have been <b>saved</b>.
 
 ![Confirmation](assets/images/readme-images/confirmation.png)
 
 #### 4. Your site is live
-It can take a few minutes before you can see your link tol the hosted website.
+It can take a few minutes before you can see your <b>link</b> to the hosted website.
 
 ![Live site](assets/images/readme-images/live-site.png)
 
 <h2 id="credits">Credits</h2>
 
 <h3 id="code-issues">Issues with code</h3>
+
 Many of my issues with both HTML5 and CSS was partly resolved thanks to [Stack Overflow](https://stackoverflow.com/) and [W3Schools](https://www.w3schools.com/).
 
 <h3 id="student-support">Student Support</h3>
+
 I had some problem with the sites hero image and thanks to Student Support at [Codeinstitute](https://codeinstitute.net/) i was able to resolve the problem.
 
 <h3 id="images">Images</h3>
+
 All the images on the site have been downloaded from [Pexels](https://www.pexels.com/sv-se/) and a special thanks to the image owners.
 
 * [Kindel Media](https://www.pexels.com/sv-se/foto/smoothie-konserveringsburk-forfriskning-kalla-drycker-8181548/)
@@ -164,6 +172,6 @@ All the images on the site have been downloaded from [Pexels](https://www.pexels
 The code for the logo, navbar and footer was inspired from the Love Running Project.
 
 <h2 id="acknowledgements">Acknowledgements</h2>
-This website was completed as a Portfolio Project 1 for the Fullstack Diploma at [Codeinstitute](https://codeinstitute.net/). The project was built due to my daily drinking of smoothies and my own searching for the best smoothie recipes, therefore is the concept real but the website is buit for my portfolio and not for public consumption. 
+This website was completed as a Portfolio Project 1 for the Fullstack Diploma at <a href="https://codeinstitute.net/" target="_blank" rel="noopener">Codeinstitute</a>. The project was built due to my daily drinking of smoothies and my own searching for the best smoothie recipes, therefore is the concept real but the website is buit for my portfolio and not for public consumption. 
 
 William Tynér, September 2022.
