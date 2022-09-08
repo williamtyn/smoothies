@@ -173,5 +173,6 @@ The code for the logo, navbar and footer was inspired from the Love Running Proj
 
 <h2 id="acknowledgements">Acknowledgements</h2>
 This website was completed as a Portfolio Project 1 for the Fullstack Diploma at <a href="https://codeinstitute.net/" target="_blank" rel="noopener">Codeinstitute</a>. The project was built due to my daily drinking of smoothies and my own searching for the best smoothie recipes, therefore is the concept real but the website is buit for my portfolio and not for public consumption. 
-<br>
+
+
 William Tynér, September 2022.
