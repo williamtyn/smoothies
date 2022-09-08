@@ -13,14 +13,20 @@ Smooth!e is a website for everybody in the world who loves smoothies. On this we
 ## Catalouge
 <ul>
 <li><a href="#target-group">Target Group</a></li>
+<li><a href="#site-structure">Site Structure</a>
+<li><a href="#homepage">Homepage</a></li>
+<li><a href="#recipe-page">Recipes Page</a></li>
+<li><a href="#share-smoothie">Share Smoothie Page</a></li>
+</li>
 </ul>
-<h2 id="target-group"> Target Group</h2>
+<h2 id="target-group">Target Group</h2>
 This website targets the millions of people who want to find new smoothie recipes to test for their first time. The site is also for the people that have found their perfect recipe and want to share that with the world, along with getting traffic to their site.
 
-## Site Structure
+<h2 id="target-group">Site Structure</h2>
 Smoothie is a three page site that includes header with logo/navigation and footer with social icons on all pages for easy navigation. Because the user visit the site to mainly find new smoothie recipes i´ve focused a lot on many pictures to highlight the recipes so the user crave to test it.
 
-### Homepage
+
+<h3 id="homepage">Homepage</h3>
 
 #### Hero Image With Text
 A hero image along with ovelay text so the user fast can understand what the site is about and the purpose.
@@ -42,13 +48,13 @@ The footer remains in the bottom on all three pages and navigate the user to our
 
 ![Printscreen of footer with social icons](assets/images/readme-images/footer.png)
 
-### Recipes Page
+<h3 id="recipe-page">Recipe Page</h3>
 The recipes page is the main purpose of the site where the visitor can see picture and recipe to many different smoothies. The first thing they see is a nice background to get their attention, followed by the different recipes and a link to the contributor of the recipe and their website.
 
 ![Printscreen of banana smoothie image and recipe](assets/images/readme-images/printscreen-banana-recipe.png)
 ![Printscreen of strawberry smoothie image and recipe](assets/images/readme-images/printscreen-strawberry-recipe.png)
 
-### Share Smoothie Page
+<h3 id="share-smoothie">Share Smoothie Page</h3>
 On the share smoothie page you can find a form where you can send your information and the link to your site containing the recipe.
 
 ![Printscreen of banana smoothie image and recipe](assets/images/readme-images/send-recipe.png)
