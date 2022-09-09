@@ -96,10 +96,13 @@ body {
     width: 90%;
     padding-top: 50px;
     margin: 25px auto;
-    border: 5px;
     
     display: flex;
     flex-direction: row;
+}
+
+.advantages div {
+    border: 10px;
 }
 
 hr { 
