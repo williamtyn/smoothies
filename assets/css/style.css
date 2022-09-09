@@ -621,7 +621,7 @@ button {
         margin: 10px;
     }
 
-    /* Share recipes on screens 900px and below */
+/* Share recipes on screens 900px and below */
 
     #share-image {
         width: 100%;
@@ -634,5 +634,36 @@ button {
 
     .share {
         width: 90%;
+    }
+}
+
+/* Media queries on screens 450px width and below */
+
+/* index.html on screens 450px and below */
+
+@media screen and (max-width: 450px) {
+
+    #popular-smoothies {
+        height: 1250px;
+    }
+
+    .socials {
+        font-size: 100%;
+        padding-top: 0;
+    }
+}
+
+/* Media queries on screens 280px width and below */
+
+/* index.html on screens 280px and below */
+
+@media screen and (max-width: 280px) {
+
+    #popular-smoothies {
+        height: 1250px;
+    }
+
+    #advantages {
+        height: 700px;
     }
 }
