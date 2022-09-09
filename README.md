@@ -146,6 +146,25 @@ It can take a few minutes before you can see your <b>link</b> to the hosted webs
 
 ![Live site](assets/images/readme-images/live-site.png)
 
+### How to fork repository
+
+1. Log into GitHub and locate repository
+2. On the right side of the page select the <b>fork</b> option to create and copy of the original.
+
+![Fork](assets/images/readme-images/fork.png)
+
+### How to create a Local Clone
+
+1. Under the repository name, click on the <b>code</b> tab.
+2. In the clone box, HTTPS tab, click on the <b>clipboard</b> icon.
+3. In your IED open GitBash.
+4. Changed the current working directory to the location you want the cloned directory to be made.
+5. Type <b>git clone</b> and then paste the URL copied from GitHub.
+6. Press <b>enter</b> and the local clone will be created.
+
+![Clone](assets/images/readme-images/local-clone.png)
+
+
 <h2 id="credits">Credits</h2>
 
 <h3 id="code-issues">Issues with code</h3>
