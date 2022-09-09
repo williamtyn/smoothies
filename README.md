@@ -2,7 +2,7 @@
 
 Smooth!e is a website for everybody in the world who loves smoothies. On this website you can both find new lovely recipes to explore and also share your favourite recipe with the world. So very welcome to explore some of the best smoothies in the world!
 
-![Image mockup of the website in a computer, tablet and phone](assets/images/readme-images/Smoothie%20-%20Mockup.png)
+![Image mockup of the website in a computer, tablet and phone](assets/images/readme-images/smoothie-mockup.png)
 
 ## Live Site
 [Go to site](https://williamtyn.github.io/smoothies/) 
@@ -90,9 +90,9 @@ On the share smoothie page you can find a form where you can send your informati
 <em>Comment - after my first testing in lighthouse the score for website was very low due to high image sizes. Therefore i converted the files from jpg to webp and also made the file smaller without it effecting quality of the image, see tecnologies for which program was used.</em>
 </ul>
 
-![First scoring](assets/images/readme-images/lighthouse-1.png)
+![First scoring](assets/images/readme-images/lighthouse-one.png)
 
-![Second scoring](assets/images/readme-images/lighthouse-2.png)
+![Second scoring](assets/images/readme-images/lighthouse-two.png)
 
 <h2 id="bugs">Bugs</h2>
 As mentioned above i found that anchor didn´t go well witch button in html. I solved that by removing the button and instead styled the anchor links with css.
